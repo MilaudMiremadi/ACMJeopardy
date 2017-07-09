@@ -1,0 +1,99 @@
+Design Patterns
+Code
+Comp History
+Definitions
+Time Complexity
+#
+#
+#
+# start row 1
+#
+# going across
+#
+# Question R0 C0:
+Ensures that only one instance of a class is created.
+What is a singleton?
+# Question R0 C1:
+Return type that doesn’t return anything.
+What is void?
+# Question R0 C2:
+____ is the father of computer science.
+Who is Alan Turing?
+# Question R0 C3:
+The ability for an object to take one or more characteristics from another object.
+What is inheritance?
+# Question R0 C4:
+________ is the time complexity of binary search.
+What is log(n)?
+#
+#
+#
+# Question R1 C0:
+Create objects without exposing the instantiation logic of the client.
+What is a factory?
+# Question R1 C1:
+In Java, a method signature consists of the method name, the number of parameters, and ___.
+What is the type(s) of the parameter(s)?
+# Question R1 C2:
+This was the first programmable computer.
+What is the Z1?
+# Question R1 C3:
+These: [ + - * / & ~ ^ | << >> ] are all ____.
+What are operators?
+# Question R1 C4:
+________ is the time complexity of bubble sort.
+What is O(n^2)?
+#
+#
+#
+# Question R2 C0:
+Reuses and shares objects that are expensive to create.
+What is an object pool?
+# Question R2 C1:
+{ { 0, 2 }, { 6, 3 }, { 8, 1 } } creates this type of array.
+What is a 2D array?
+# Question R2 C2:
+This is the name of the computer that participated in Jeopardy!
+What is Watson?
+# Question R2 C3:
+In Java, this comes by every once in a while and deallocates objects that are not being referenced anymore.
+What is the garbage collector?
+# Question R2 C4:
+________ is the time complexity of merge sort.
+What is n Log(n)?
+#
+#
+#
+# Question R3 C0:
+Provides a “PLACEHOLDER” for an object to control references to it. (rhymes with foxy)
+What is a proxy?
+# Question R3 C1:
+In Java, this keyword is used to instantiate an object.
+What is new?
+# Question R3 C2:
+This was the first web browser.
+What was the NCSA Mosaic?
+# Question R3 C3:
+The range of a signed byte.
+What is -128 to 127?
+# Question R3 C4:
+________ is the time complexity of search in a hash table.
+What is 1 (or a constant)?
+#
+#
+#
+# Question R4 C0:
+An interface that gets notified when an object changes state.
+What is an observer?
+# Question R4 C1:
+This is the name of the ‘&’ operator that is specific to C and C related languages.
+What is ‘address of’?
+# Question R4 C2:
+This is the first programming language.
+What is FORTRAN?
+# Question R4 C3:
+This term means that a method is bound to fail and is outdated.
+What is deprecated?
+# Question R4 C4:
+________ is the time complexity of Dijkstra's algorithm.
+What is |V|^2?
